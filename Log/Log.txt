@@ -1,0 +1,6 @@
+08/11 10:00-?:? : Pi omzetten naar rubber ducky en leren omgaan van de taal + begin python scripts schrijven
+		-payload.dd is bijna af:
+			*Het runnen van CopyWormAndRunWorm.py is af
+			*Bezig met het maken van backup plan moest het CopyWormAndRunWorm.py falen (script online afhalen)
+
+		-CopyWormAndRunWorm.py is af
