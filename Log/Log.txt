@@ -1,6 +1,21 @@
-08/11 10:00-?:? : Pi omzetten naar rubber ducky en leren omgaan van de taal + begin python scripts schrijven
+08/11 10:00-13:45 : Pi omzetten naar rubber ducky en leren omgaan van de taal + begin python scripts schrijven
 		-payload.dd is bijna af:
 			*Het runnen van CopyWormAndRunWorm.py is af
 			*Bezig met het maken van backup plan moest het CopyWormAndRunWorm.py falen (script online afhalen)
 
 		-CopyWormAndRunWorm.py is af
+
+13/11 12:20-14:00 : Werken aan MainWorm.py:
+		-Het automatisch installeren van "keyboard" package
+		-Simpele versie van keylogger en de keystrokes opslaan in een bestand genaamd "data.txt"
+
+13/11 19:00-21:00 : keylogger finetuning:
+		-beter leesbaar
+		-meer geavanceerd maken
+
+13/11 21:30-23:45 : keylogger afwerken & screen logger maken:
+		-keylogger functioneert volledig en makkelijk leesbaar
+		-Screen logger begonnen:
+			*Neemt screenshot van het scherm en slaagt die op met datum en tijd in de naam
+			*Neemt screenshot op interval om de x aantal tijd
+		-Screen logger geïntegreerd in hooft programma
