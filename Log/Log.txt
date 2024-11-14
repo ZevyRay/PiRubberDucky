@@ -20,4 +20,8 @@
 			*Neemt screenshot op interval om de x aantal tijd
 		-Screen logger geïntegreerd in hooft programma
 
-14/11 20:00-?:? : 
+14/11 20:00-?:? : worm in het systeem verplaatsen en schuilen + op opstarten van pc uitvoeren a.d.h.v. task scheduler:
+		-CreateHiddenFolder.py is een test file en die maakt een hidden folder in C:\Windows\ met naam
+		 "RubenHidden"
+		-CreateHiddenFolder.py kopieert zichzelf ook naar "RubenHidden"
+		-"RunOnBootScript" zorgt ervoor dat het zichzelf uitvoert bij het opstarten van de computer 

@@ -1,1 +1,3 @@
 Kopieer de windows achtergrond foto. implementeer de worm in de nieuwe foto. vervang dan de achtergrond foto met de besmette foto voor het runnen van de worm bij het opstarten.
+
+zorg ervoor dat het 
