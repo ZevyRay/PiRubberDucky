@@ -19,3 +19,5 @@
 			*Neemt screenshot van het scherm en slaagt die op met datum en tijd in de naam
 			*Neemt screenshot op interval om de x aantal tijd
 		-Screen logger geïntegreerd in hooft programma
+
+14/11 20:00-?:? : 
