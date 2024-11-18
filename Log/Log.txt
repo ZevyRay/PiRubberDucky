@@ -31,3 +31,5 @@
 
 18/11 19:20-19:30 : killswitch geimplementeerd
 		-ctrl+alt+k kills the worm
+
+18/11 22:30-23:20 : maak folder in geheime systeem folder waar de screenshots worden bijgehouden  
