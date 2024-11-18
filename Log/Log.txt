@@ -26,4 +26,8 @@
 		-CreateHiddenFolder.py kopieert zichzelf ook naar "RubenHidden"
 		-"RunOnBootScript" zorgt ervoor dat het zichzelf uitvoert bij het opstarten van de computer
 
- 
+18/11 12:10-14:25 : Sub scripts implementeren in hoofd worm + proberen killswitch implementeren:
+		-hooft worm maakt een hidden folder en versplaatst zich naar daar
+
+18/11 19:20-19:30 : killswitch geimplementeerd
+		-ctrl+alt+k kills the worm
