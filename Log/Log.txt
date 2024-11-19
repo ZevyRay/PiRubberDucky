@@ -20,16 +20,22 @@
 			*Neemt screenshot op interval om de x aantal tijd
 		-Screen logger geïntegreerd in hooft programma
 
-14/11 20:00-22:00 : worm in het systeem verplaatsen en schuilen + op opstarten van pc uitvoeren a.d.h.v. task scheduler:
+14/11 20:00-22:00 : worm in het systeem verplaatsen en schuilen + proberen op opstarten van pc uitvoeren a.d.h.v. task scheduler:
 		-CreateHiddenFolder.py is een test file en die maakt een hidden folder in C:\Windows\ met naam
 		 "RubenHidden"
 		-CreateHiddenFolder.py kopieert zichzelf ook naar "RubenHidden"
-		-"RunOnBootScript" zorgt ervoor dat het zichzelf uitvoert bij het opstarten van de computer
+		-"RunOnBootScript" zorgt ervoor dat het zichzelf uitvoert bij het opstarten van de computer(niet functionerend)
 
 18/11 12:10-14:25 : Sub scripts implementeren in hoofd worm + proberen killswitch implementeren:
-		-hooft worm maakt een hidden folder en versplaatst zich naar daar
+		-hooft worm maakt een hidden folder en verplaatst zich naar daar
 
-18/11 19:20-19:30 : killswitch geimplementeerd
+18/11 19:20-19:30 : killswitch geïmplementeerd
 		-ctrl+alt+k kills the worm
 
 18/11 22:30-23:20 : maak folder in geheime systeem folder waar de screenshots worden bijgehouden  
+
+19/11 09:10-11:00
+    & 11:20-12:05 : Worm bij aanmelden op systeem uitvoeren:
+		-"RunOnBootScript" afgewerkt(functionerend)
+		-Implementeren in worm = op aanmelden zichzelf uitvoeren
+		-Worm voert zichzelf nu uit bij aanmelden op het systeem (deels functionerend)
