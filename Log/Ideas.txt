@@ -9,3 +9,7 @@ Wanneer er meer dan 1 screenshot log folder is wordt de vorige automatisch gezip
 maak de python file een executable => .exe
 
 self destruct bij BV. openen van file
+
+Zips alle logs en verwijderd die dan
+
+ultra kill switch remove => task, folder structure

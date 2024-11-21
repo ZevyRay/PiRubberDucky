@@ -20,7 +20,7 @@
 			*Neemt screenshot op interval om de x aantal tijd
 		-Screen logger geïntegreerd in hooft programma
 
-14/11 20:00-22:00 : worm in het systeem verplaatsen en schuilen + proberen op opstarten van pc uitvoeren a.d.h.v. task scheduler:
+14/11 20:00-22:00 : worm in het systeem verplaatsen en schuilen + proberen op opstarten van pc uitvoeren a.d.h.v. task scheduler:	
 		-CreateHiddenFolder.py is een test file en die maakt een hidden folder in C:\Windows\ met naam
 		 "RubenHidden"
 		-CreateHiddenFolder.py kopieert zichzelf ook naar "RubenHidden"
@@ -35,7 +35,16 @@
 18/11 22:30-23:20 : maak folder in geheime systeem folder waar de screenshots worden bijgehouden  
 
 19/11 09:10-11:00
-    & 11:20-12:05 : Worm bij aanmelden op systeem uitvoeren:
+    & 11:20-13:00 : Worm bij aanmelden op systeem uitvoeren:
 		-"RunOnBootScript" afgewerkt(functionerend)
 		-Implementeren in worm = op aanmelden zichzelf uitvoeren
 		-Worm voert zichzelf nu uit bij aanmelden op het systeem (deels functionerend)
+
+19/11 17:20-19:30 : task scheduler werkt
+
+21/11 14:30-16:15 : bestanden zippen:
+		-Herstructureren van mappen creatie voor versimpeling van het zippen
+		-subbestand ZipFiles.py werkt perfect
+
+21/11 17:30-?:? : oudste bestanden zippen:
+		-
