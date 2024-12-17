@@ -47,6 +47,6 @@
 		-subbestand ZipFiles.py werkt perfect
 
 21/11 17:30-19:10 : oudste log folder zippen:
-		-Alles geintegreerd van ZipFiles.py in main worm:
+		-Alles geïntegreerd van ZipFiles.py in main worm:
 			*Zipt de oudste folder met al de contents erin
 		-Verwijderd na het zippen de oudste folder
