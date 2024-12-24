@@ -50,3 +50,10 @@
 		-Alles geïntegreerd van ZipFiles.py in main worm:
 			*Zipt de oudste folder met al de contents erin
 		-Verwijderd na het zippen de oudste folder
+
+18/12 13:20-16:30 : Mail proberen implementeren, fundamentele uitvoeringen wijzigen en executables maken:
+		-Mail implementeren:
+			*stuurt een mail naar mij door van de oudste zip file(logs)
+		-Herstructureren van de python files:
+			*CopyWormAndRunWorm.py maakt nu de folder structuur en kopieert de Worm rechtstreeks naar het systeem folder zonder eerst het subworm te maken
+		-Experimenteren met het maken van de Worm en de CopyWormAndRunWorm een executable te maken ipv in .pyw en of in .py te werken
